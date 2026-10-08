@@ -1,0 +1,13 @@
+[
+  {
+    "kind": "pending",
+    "title": "L5",
+    "plannedMinutes": 30
+  },
+  {
+    "kind": "done",
+    "title": "L6",
+    "plannedMinutes": 20,
+    "actualMinutes": 25
+  }
+]
